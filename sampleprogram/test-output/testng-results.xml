@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-12T11:24:15 IST" name="Default suite" finished-at="2023-01-12T11:24:35 IST" duration-ms="20112">
+    <groups>
+    </groups>
+    <test started-at="2023-01-12T11:24:15 IST" name="Default test" finished-at="2023-01-12T11:24:35 IST" duration-ms="20112">
+      <class name="Main.Run">
+        <test-method is-config="true" signature="open_browser()[pri:0, instance:Main.Run@4f80542f]" started-at="2023-01-12T11:24:15 IST" name="open_browser" finished-at="2023-01-12T11:24:28 IST" duration-ms="13234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_browser -->
+        <test-method signature="call()[pri:0, instance:Main.Run@4f80542f]" started-at="2023-01-12T11:24:28 IST" name="call" finished-at="2023-01-12T11:24:32 IST" duration-ms="4082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- call -->
+        <test-method is-config="true" signature="driver_close()[pri:0, instance:Main.Run@4f80542f]" started-at="2023-01-12T11:24:32 IST" name="driver_close" finished-at="2023-01-12T11:24:35 IST" duration-ms="2742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driver_close -->
+      </class> <!-- Main.Run -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
